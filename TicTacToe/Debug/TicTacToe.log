@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+LINK : error LNK2001: unresolved external symbol _Main
+C:\Users\Mohamed Hisham\Desktop\programming C++\TicTacToe\Debug\TicTacToe.exe : fatal error LNK1120: 1 unresolved externals
